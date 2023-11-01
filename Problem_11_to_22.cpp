@@ -6,9 +6,9 @@ using namespace std;
 int main () {
 
     //Problem_11
-//  double a = 5.23e3;
-//  double b = 25e-4;
-//  cout<< a << endl << b;
+ double a = 5.23e3;
+ double b = 25e-4;
+ cout<< a << endl << b;
 
     //Problem_12
 //    int allStudents = 241;
